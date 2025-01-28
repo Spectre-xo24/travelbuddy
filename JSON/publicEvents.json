@@ -1,0 +1,16 @@
+[{	"eventID":123,	
+	"eventName":"test Event",
+	"eventCity":"London",
+	"lat":"51.5072",
+	"lng":"-0.1275",
+	"subscribed":1,
+},
+{
+	"eventID":234,
+	"eventName":"test Event 2",
+	"eventCity":"Birmingham",
+	"lat":"52.4800",
+	"lng":"-1.9025",
+	"subscribed":1,
+}
+]
